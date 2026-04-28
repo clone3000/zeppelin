@@ -5,9 +5,9 @@
 
 Инструменты:
 
-Apache Zeppelin (%spark.pyspark)-
-PySpark (DataFrame API, оконные функции)-
--HDFS (сохранение в Parquet)
+Apache Zeppelin (%spark.pyspark)- 
+ PySpark (DataFrame API, оконные функции)-
+ HDFS (сохранение в Parquet)
 
 Выполненые пункты:
 
