@@ -11,9 +11,9 @@ HDFS (сохранение в Parquet)
 
 Выполненые пункты:
 
-(1)Расчет: revenue = qty * price;
-(2)Объединение: join orders + users + products;
-(3)Метрики:  orders_cnt, qty_sum, revenue_sum по city, product_id, product_name;
-(4)Оконная функция: top-2 по revenue_sum для каждого города;
-(5)Сохранение в HDFS: (/tmp/sandbox_zeppelin/mart_city_top_products/, Parquet, overwrite);
-(6)Чтение: из Parquet и вывод результата
+(1) Расчет: revenue = qty * price;
+(2) Объединение: join orders + users + products;
+(3) Метрики:  orders_cnt, qty_sum, revenue_sum по city, product_id, product_name;
+(4) Оконная функция: top-2 по revenue_sum для каждого города;
+(5) Сохранение в HDFS: (/tmp/sandbox_zeppelin/mart_city_top_products/, Parquet, overwrite);
+(6) Чтение: из Parquet и вывод результата
